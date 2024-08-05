@@ -19,3 +19,12 @@ This is the last edit
 
 Anguka Nayo!!
 We have created a branch called new-duke
+
+
+## Results
+
+If BMI > 25 then the person is overweight
+
+If BMI is between 18 and 256 the person is Normal
+
+If BMI < 18 then teh person is underweight
